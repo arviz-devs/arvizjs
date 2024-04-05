@@ -1,0 +1,16 @@
+{
+    "name": "@arviz/arviz",
+    "version": "0.1.0",
+    "author": "ArviZ developers and contributors",
+    "description": "ArviZ statistics for JavaScript",
+    "dependencies": {},
+    "devDependencies": {
+        "prettier": "^3.2.5",
+        "typescript": "^5.4.3"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
